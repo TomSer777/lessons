@@ -1,0 +1,49 @@
+
+@import url(reset.css);
+
+
+.header p{
+	color: yellow;
+}
+.tema {
+	color: aqua;
+}
+.header .next {
+	color: brown;
+}
+div.text {
+	color: blueviolet;
+}
+.cond.punkt {
+	color: brown;
+}
+.pid,
+.punkt {
+	color: aquamarine;
+}
+.rexpunktu {
+	color: green;
+}
+.li1,
+.li2{
+	color: brown;
+}
+#p-1 {
+	color: blue;
+}
+[class="voloha"] {
+	color: aqua;
+}
+.zuma *{
+	color: blue;
+}
+.zuma > p{
+	color: greenyellow;
+}
+
+.text3 ~ p{
+	color: red;
+}
+.text4 + p{
+	color: blue;
+}
